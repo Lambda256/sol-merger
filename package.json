@@ -1,6 +1,6 @@
 {
-  "name": "sol-merger",
-  "version": "0.1.3",
+  "name": "lambda-sol-merger",
+  "version": "0.0.1",
   "description": "Merges all import files into single file.",
   "main": "index.js",
   "directories": {
@@ -23,7 +23,7 @@
     "solidity",
     "solidity-merger"
   ],
-  "author": "Valery Aligorsky <stdammit@gmail.com>",
+  "author": "Lambda256",
   "license": "BSD-2-Clause",
   "dependencies": {
     "bluebird": "^3.5.3",
@@ -38,7 +38,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/RyuuGan/sol-merger.git"
+    "url": "https://github.com/Lambda256/sol-merger"
   },
   "devDependencies": {
     "chai": "^4.1.2",
